@@ -2,10 +2,6 @@
  Click on any link below to start downloading directly.
 
 
-### 📅 2026-05-13 00:49 (IR Time)
-- 📥 **[zyrln-1.5.1-pre6.apk](https://github.com/CallingoX15/0x00-dl/raw/main/dl/zyrln-1.5.1-pre6.apk)**
-
-
 ### 📅 2026-05-12 10:07 (IR Time)
 - 📥 **[node-v24.10.0-x64.msi](https://github.com/EdvardNA-999/0x00-dl/raw/main/dl/node-v24.10.0-x64.msi)**
 
