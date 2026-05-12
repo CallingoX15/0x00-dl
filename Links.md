@@ -2,10 +2,6 @@
  Click on any link below to start downloading directly.
 
 
-### 📅 2026-05-13 02:01 (IR Time)
-- 📥 **[Geralt.zip](https://github.com/CallingoX15/0x00-dl/raw/main/dl/Geralt.zip)**
-
-
 ### 📅 2026-05-12 10:07 (IR Time)
 - 📥 **[node-v24.10.0-x64.msi](https://github.com/EdvardNA-999/0x00-dl/raw/main/dl/node-v24.10.0-x64.msi)**
 
