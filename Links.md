@@ -2,10 +2,6 @@
  Click on any link below to start downloading directly.
 
 
-### 📅 2026-05-18 00:48 (IR Time)
-- 📥 **[روبیکا core.mp4](https://github.com/CallingoX15/0x00-dl/raw/main/dl/%D8%B1%D9%88%D8%A8%DB%8C%DA%A9%D8%A7%20core.mp4)**
-
-
 ### 📅 2026-05-12 10:07 (IR Time)
 - 📥 **[node-v24.10.0-x64.msi](https://github.com/EdvardNA-999/0x00-dl/raw/main/dl/node-v24.10.0-x64.msi)**
 
